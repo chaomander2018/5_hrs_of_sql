@@ -24,5 +24,10 @@ You can [email](mailto:emmawangchao@gmail.com) me to learn more about how I teac
 ## Course Demo
 
 ## Resources
+- [W3 school](https://www.w3schools.com/sql)
+- Udacity [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
+- [Launch School](https://launchschool.com/books/sql/read/introduction)
+- Stackoverflow 
+- [Sqlite.org](https://sqlite.org/index.html)
 
 
